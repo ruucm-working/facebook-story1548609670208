@@ -1,0 +1,23 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.10.3"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.3",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "b368c3e4-5342-4336-bb2e-5e53fda89dfe"
+	},
+	"author": ". ruucm",
+	"dependencies": {
+		"@framer/kasimir.iphone-x-kit": "^1.19.0",
+		"@framer/maximedegreve.tinyfaces": "^1.0.0",
+		"@framer/tryjohnny.avataaars": "^1.1.0",
+		"ruucm-util": "^0.12.0"
+	}
+}
